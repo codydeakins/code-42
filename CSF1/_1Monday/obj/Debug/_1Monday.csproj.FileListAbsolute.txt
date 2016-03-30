@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\CSF1\_1Monday\bin\Debug\_1Monday.exe.config
+c:\users\student\documents\visual studio 2015\Projects\CSF1\_1Monday\bin\Debug\_1Monday.exe
+c:\users\student\documents\visual studio 2015\Projects\CSF1\_1Monday\bin\Debug\_1Monday.pdb
+c:\users\student\documents\visual studio 2015\Projects\CSF1\_1Monday\obj\Debug\_1Monday.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\CSF1\_1Monday\obj\Debug\_1Monday.exe
+c:\users\student\documents\visual studio 2015\Projects\CSF1\_1Monday\obj\Debug\_1Monday.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1\2Tuesday\bin\Debug\2Tuesday.exe.config
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1\2Tuesday\bin\Debug\2Tuesday.exe
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1\2Tuesday\bin\Debug\2Tuesday.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1\2Tuesday\obj\Debug\_2Tuesday.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1\2Tuesday\obj\Debug\2Tuesday.exe
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1\2Tuesday\obj\Debug\2Tuesday.pdb

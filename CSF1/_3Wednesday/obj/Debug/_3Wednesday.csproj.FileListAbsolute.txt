@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CSF1\_3Wednesday\bin\Debug\_3Wednesday.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CSF1\_3Wednesday\bin\Debug\_3Wednesday.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CSF1\_3Wednesday\bin\Debug\_3Wednesday.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CSF1\_3Wednesday\obj\Debug\_3Wednesday.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CSF1\_3Wednesday\obj\Debug\_3Wednesday.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CSF1\_3Wednesday\obj\Debug\_3Wednesday.csprojResolveAssemblyReference.cache

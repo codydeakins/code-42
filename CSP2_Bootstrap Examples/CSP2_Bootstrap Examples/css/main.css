@@ -1,0 +1,17 @@
+﻿body {
+    padding-bottom: 70px;
+    /*Added to account for the footer navbar which is fixed to the bottom.*/
+}
+
+/*Center the images and set a maximum height.*/
+#motivational .item img {
+    margin: 0 auto;
+    max-height:400px;
+}
+
+.important {
+    border-bottom: 3px solid red;
+    color: #636;
+
+
+}
