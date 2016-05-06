@@ -1,0 +1,6 @@
+c:\users\attic\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\users\attic\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\attic\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\attic\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\users\attic\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+c:\users\attic\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb

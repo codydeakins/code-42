@@ -1,0 +1,21 @@
+C:\Users\attic\documents\visual studio 2015\Projects\Game\Game\obj\Release\LightBike.csprojResolveAssemblyReference.cache
+C:\Users\attic\documents\visual studio 2015\Projects\Game\Game\bin\Release\LightBike.exe.config
+C:\Users\attic\documents\visual studio 2015\Projects\Game\Game\bin\Release\LightBike.exe
+C:\Users\attic\documents\visual studio 2015\Projects\Game\Game\bin\Release\LightBike.pdb
+C:\Users\attic\documents\visual studio 2015\Projects\Game\Game\obj\Release\LightBike.exe
+C:\Users\attic\documents\visual studio 2015\Projects\Game\Game\obj\Release\LightBike.pdb
+C:\Users\attic\Documents\Visual Studio 2015\Projects\LightBike\Game\bin\Release\LightBike.exe.config
+C:\Users\attic\Documents\Visual Studio 2015\Projects\LightBike\Game\obj\Release\LightBike.exe
+C:\Users\attic\Documents\Visual Studio 2015\Projects\LightBike\Game\obj\Release\LightBike.pdb
+C:\Users\Student\OneDrive\Documents\Visual Studio 2015\Projects\LightBike\Game\bin\Release\LightBike.exe.config
+C:\Users\Student\OneDrive\Documents\Visual Studio 2015\Projects\LightBike\Game\obj\Release\LightBike.exe
+C:\Users\Student\OneDrive\Documents\Visual Studio 2015\Projects\LightBike\Game\obj\Release\LightBike.pdb
+C:\Users\Student\OneDrive\Documents\Visual Studio 2015\Projects\LightBike\Game\bin\Release\LightBike.exe
+C:\Users\Student\OneDrive\Documents\Visual Studio 2015\Projects\LightBike\Game\bin\Release\LightBike.pdb
+C:\Users\Student\OneDrive\Documents\Visual Studio 2015\Projects\LightBike\Game\obj\Release\LightBike.csprojResolveAssemblyReference.cache
+F:\LightBike\Game\bin\Release\LightBike.exe.config
+F:\LightBike\Game\obj\Release\LightBike.exe
+F:\LightBike\Game\obj\Release\LightBike.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\C#\LightBike\Game\bin\Release\LightBike.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\C#\LightBike\Game\obj\Release\LightBike.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\C#\LightBike\Game\obj\Release\LightBike.pdb
